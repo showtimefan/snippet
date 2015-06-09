@@ -1,9 +1,10 @@
 // UICollectionViewDataSource_U
-// 
+// CollectionView代理
 //
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: EE63CA08-B1B4-4306-9316-E39CB5D396CC
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetPlatformFamily: iphoneos
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
 #pragma mark - UICollectionViewDataSource
