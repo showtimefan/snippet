@@ -1,6 +1,7 @@
 // UICollectionViewDataSource_U
 // CollectionView代理
 //
+// IDECodeSnippetCompletionPrefix: s_cvd
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: EE63CA08-B1B4-4306-9316-E39CB5D396CC
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
