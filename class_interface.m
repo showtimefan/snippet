@@ -1,4 +1,4 @@
-// Class_Interface
+// Class_Interface<U>
 // 类接口
 //
 // IDECodeSnippetCompletionPrefix: s_inter
