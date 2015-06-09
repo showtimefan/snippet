@@ -1,5 +1,5 @@
 // dispatch_async
-// 
+// GCD异步
 //
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: F0E1D5E4-288E-430F-88B4-12977CFAB2FE
