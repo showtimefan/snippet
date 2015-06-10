@@ -1,5 +1,5 @@
 // UIImageNamed_U
-// 
+// s_image
 //
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: 25AAEFCF-6FB0-4231-BBE1-172992373EC6
