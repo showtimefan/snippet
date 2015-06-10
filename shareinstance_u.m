@@ -7,12 +7,12 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
-+ (instancetype)shared<#name#> {
-    static <#class#> *_shared<#name#> = nil;
++ (instancetype)sharedInstance {
+    static <#class#> *instance = nil;
     static dispatch_once_t onceToken;
     dispatch_once(&onceToken, ^{
-        _shared<#name#> = <#initializer#>;
+        instance = [[[self class] alloc] init];
     });
     
-    return _shared<#name#>;
+    return instance;
 }
