@@ -6,7 +6,7 @@
 // IDECodeSnippetIdentifier: D35F34C6-F830-45F2-913B-108CFE3C4B04
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 + (instancetype)sharedInstance {
     static <#class#> *instance = nil;
     static dispatch_once_t onceToken;
