@@ -1,5 +1,5 @@
 // weakSelf_U
-// 
+// weak变量
 //
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: 9C4C0A2D-8265-4FD5-BB4B-700C50E723F5
