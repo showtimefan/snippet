@@ -6,5 +6,5 @@
 // IDECodeSnippetIdentifier: 30F0AF3D-8052-4473-A467-6F4161F602D1
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 [NSString stringWithFormat:@"<#Format#>",<#text#>]
